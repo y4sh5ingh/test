@@ -1,1 +1,13 @@
-bharat kalyanteats
+Hello bharatkalyan.k
+		     Details of VM's configured for Ansible Course in Hyper-V
+--------------------------------------------------------------------------------------------------
+      VM Name           :   Switch Name  :    Hostname     :  IP Address   :  UserName  : Password
+--------------------------------------------------------------------------------------------------
+Ansible-Control-Server  :  ACOS-Ansible  : ansible-control : 169.254.1.11  :    root    : infy@123
+Ansible-WebNode         :  ACOS-Ansible  :    webnode1     : 169.254.1.12  :    root    : infy@123
+Ansible-DBNode          :  ACOS-Ansible  :     dbnode1     : 169.254.1.13  :    root    : infy@123
+--------------------------------------------------------------------------------------------------
+         You can now connect to the VM's in via putty using IP Address, Username & Password
+
+                                            Happy Learning! 
+
